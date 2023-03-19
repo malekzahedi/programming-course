@@ -14,7 +14,7 @@ print(x)
 
 # راه دوم
 
-sorce_list = [5,3,9,23,64,15]
+sorce_list = [5,3,9,23,64,15,98]
 x = -float('inf')
 for i in sorce_list:
     if x < i:
